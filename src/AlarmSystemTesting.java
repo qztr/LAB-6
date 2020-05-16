@@ -22,6 +22,9 @@ public class AlarmSystemTesting implements FsmModel {
 //	private boolean disarm;
 //	private boolean siren_ends_and_doors_are_closed;
 //	private boolean door_opens;
+	
+	
+	dwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 	private enum State {
 		DISARMED, ARMED, SIREN;
